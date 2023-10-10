@@ -1,4 +1,4 @@
 # Explorystique
-Front End Developement using HTML CSS JavaScript
+blogging Website using HTML, CSS and Javascript.
 <br>
 Author - Ravi Raj
